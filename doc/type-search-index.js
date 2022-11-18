@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dades","l":"EstacioRecarregaVE"},{"p":"dades","l":"LlistaEstacions"},{"p":"aplicacio","l":"UsaLlistaEstacionsVE"}];updateSearchResults();
